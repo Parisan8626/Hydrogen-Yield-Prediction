@@ -98,6 +98,6 @@ Four plots generated / 生成四张图:
 
 ## How to Run / 运行方法
 
-`bash
+bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 python hydrogen_prediction.py
